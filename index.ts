@@ -1,3 +1,6 @@
+// lesson 1
+
+
 interface PriceOptions {
   price: number;
   discount: number;
